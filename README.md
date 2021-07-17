@@ -160,15 +160,15 @@ Project Link: [https://github.com/suyashsonawane/JavaNet](https://github.com/suy
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/suyashsonawane/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/suyashsonawane/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/suyashsonawane/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/suyashsonawane/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/suyashsonawane/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/suyashsonawane/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/suyashsonawane/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/suyashsonawane/repo/issues
-[license-shield]: https://img.shields.io/github/license/suyashsonawane/repo.svg?style=for-the-badge
-[license-url]: https://github.com/suyashsonawane/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/suyashsonawane/JavaNet.svg?style=for-the-badge
+[contributors-url]: https://github.com/suyashsonawane/JavaNet/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/suyashsonawane/JavaNet.svg?style=for-the-badge
+[forks-url]: https://github.com/suyashsonawane/JavaNet/network/members
+[stars-shield]: https://img.shields.io/github/stars/suyashsonawane/JavaNet.svg?style=for-the-badge
+[stars-url]: https://github.com/suyashsonawane/JavaNet/stargazers
+[issues-shield]: https://img.shields.io/github/issues/suyashsonawane/JavaNet.svg?style=for-the-badge
+[issues-url]: https://github.com/suyashsonawane/JavaNet/issues
+[license-shield]: https://img.shields.io/github/license/suyashsonawane/JavaNet.svg?style=for-the-badge
+[license-url]: https://github.com/suyashsonawane/JavaNet/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/suyashysonawane
