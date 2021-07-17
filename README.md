@@ -14,7 +14,7 @@
     <a href="https://github.com/suyashsonawane/JavaNet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/suyashsonawane/JavaNet">View Demo</a>
+    <a href="https://github.com/SuyashSonawane/JavaNet/blob/main/Driver.java">View Demo</a>
     ·
     <a href="https://github.com/suyashsonawane/JavaNet/issues">Report Bug</a>
     ·
