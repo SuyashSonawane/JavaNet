@@ -1,4 +1,4 @@
-class Main {    
+class Main {
     public static void main(String [] args) {        
         NeuralNetwork nn = new NeuralNetwork(2, 10, 1);
         
