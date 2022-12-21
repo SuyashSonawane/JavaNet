@@ -439,20 +439,8 @@ final class BasicUtils {
         return out;
     }
     
-    public static String arrStr(int[] arr) {
-        return Arrays.toString(arr);
-    }
-    
     public static String arrStr(double[] arr) {
         return Arrays.toString(arr);
-    }
-    
-    public static String arrStr(boolean[] arr) {
-        return Arrays.toString(arr);
-    }
-    
-    public static String arrStr(Object[] arr) {
-        return Arrays.deepToString(arr);
     }
     
     public static void print(Object str) {
